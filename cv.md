@@ -1,10 +1,8 @@
 ---
 layout: page
-title: CV
+title: Sergei Ovchinnikov, software developer
 permalink: /cv/
 ---
-
-## Sergei Ovchinnikov, software developer
 
 ### Key competences
 
