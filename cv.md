@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-## Software developer
+## Sergei Ovchinnikov, software developer
 
 ### Key competences
 
@@ -60,7 +60,7 @@ permalink: /cv/
 #### Integrated development environments / build systems:
 
 - CMake, SCons
-- Eclipse, VisualStudio, IntelliJ IDEA
+- VisualStudio, IntelliJ IDEA, Vim
 
 ## Education
 
@@ -73,7 +73,7 @@ permalink: /cv/
 
 ## Professional experience
 
-> *2012-2014:* 
+> *2012-2016:* 
 > **Research and Project Institute of General Planning for the city of Moscow**
 > 
 > ***Role:*** Transportation forecasting engineer (Mathematical model of Moscow agglomeration)
@@ -109,6 +109,10 @@ permalink: /cv/
 
 
 ***Projects:***
+
+*Frontend*
+
+- Transportation accessibility in Moscow city: [http://izo.urbanstat.ru](http://izo.urbanstat.ru)
 
 *Ruby (Sinatra / Rails)*
 
